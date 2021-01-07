@@ -1,0 +1,11 @@
+__pycache__/run.cpython-38.pyc
+__pycache__/firecfg.cpython-38.pyc
+__pycache__/db.cpython-38.pyc
+__pycache__/__init__.cpython-38.pyc
+__pycache__/handles.cpython-38.pyc
+bitcoin/__pycache__/main.cpython-38.pyc
+nano/__pycache__/defs.cpython-38.pyc
+nano/__pycache__/models.cpython-38.pyc
+nano/__pycache__/main.cpython-38.pyc
+nano/__pycache__/processor.cpython-38.pyc
+devserver.sh
