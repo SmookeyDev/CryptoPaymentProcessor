@@ -44,8 +44,3 @@ def withdraw():
             getValues().updateprocessing(True)
             withdraws.start()
         return jsonify(response = handles.encodeapi({'message': 'your withdraw will be processed soon', 'success': True}))
-
-@nanopay.route('/api/payments/nano/teste')
-def teste():
-    deposits.start()
-    return 'ok'
